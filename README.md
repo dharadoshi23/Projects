@@ -1,8 +1,6 @@
 
 COFFEE SHOP SALES-DASHBOARD
 
-DASHBOARD LINK- https://app.powerbi.com/groups/me/reports/0c6b096a-fdea-4468-b64b-f9f784ea6326/7aa335c8d7b9776c0b05?redirectedFromSignup=1&experience=power-bi
-
 ## Problem Statement
 
 ### Current Situation:
